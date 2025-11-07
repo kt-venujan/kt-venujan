@@ -1,0 +1,45 @@
+# This is the name of your "robot"
+name: Generate Contribution Snake
+
+# This tells the robot WHEN to run
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Also let you run it manually from the "Actions" tab
+  workflow_dispatch:
+
+# This tells the robot WHAT to do
+jobs:
+  # It has one job, named "build"
+  build:
+    runs-on: ubuntu-latest # It runs on a simple computer (Ubuntu)
+
+    steps:
+      # Step 1: Check out your repository's code
+      - uses: actions/checkout@v3
+
+      # Step 2: This is the MAGICAL part! It runs the "snk" action
+      - uses: Platane/snk@v3
+        with:
+          # YOUR GitHub username
+          # (This will automatically get your username, no need to change!)
+          github_user_name: ${{ github.repository_owner }}
+
+          # This tells the action to generate the snake SVG
+          # from your contribution squares
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Step 3: This takes the new snake images...
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          # ...and pushes them to a NEW branch called "output"
+          target_branch: output
+          build_dir: dist
+        env:
+          # This is a secret token that lets the robot
+          # write to your repository. It's safe!
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
