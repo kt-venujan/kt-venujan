@@ -1,9 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+there!+I'm+Venu+👋;I'm+a+Full+Stack+Developer;Student+and+Life-long+Learner;I+build+cool+projects!+🚀" alt="Typing Animation(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&width=500&lines=Hi,+I'm+Boss+Venu+👑;Cybersecurity+Student;Full+Stack+Developer;Building+Cool+Tech+in+Sri+Lanka+🇱🇰
-)">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&width=500&lines=Hi,+I'm+Boss+Venu+👑;Cybersecurity+Student;Full+Stack+Developer;Building+Cool+Tech+in+Sri+Lanka+🇱🇰" 
+      alt="Typing Animation"
+    />
   </a>
 </h1>
+
 
 <h3 align="center">💻 Full Stack Developer | Student </h3>
 <p align="center">
