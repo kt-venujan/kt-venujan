@@ -26,7 +26,7 @@ I am a passionate Software Engineer based in Jaffna, Sri Lanka, with a strong fo
 | Role | Company | Duration |
 | :--- | :--- | :--- |
 | **Software Engineer Intern** | Rispit (Jaffna) | Apr 2026 – Present |
-| **Software Engineer** | Code Vita (Pvt Ltd) | Jun 2025 – Dec 2025 |
+| **Software Engineer Intern** | Code Vita (Pvt Ltd) | Jun 2025 – Dec 2025 |
 | **IT Technician** | Tilko Jaffna City Hotel | Oct 2023 – Mar 2024 |
 
 ---
