@@ -13,7 +13,7 @@ I am a passionate Software Engineer based in Jaffna, Sri Lanka, with a strong fo
 
 ### 🚀 About Me
 
-* 🎓 **Education:** Currently in my 3rd year pursuing a BSc (Hons) in Software Engineering at SLIIT. Completed my Higher Diploma in IT.
+* 🎓 **Education:** Currently in my 3rd year pursuing a BSc (Hons) in Computer Science at SLIIT. Completed my Higher Diploma in IT.
 * 💼 **Current Role:** Software Engineer Intern at **Rispit**.
 * 🌟 **Leadership:** Founder of **H2F (Host to Fusion)**, building scalable digital solutions.
 * 🛡️ **Security:** Experienced in vulnerability assessments and SIEM tools like Wazuh.
