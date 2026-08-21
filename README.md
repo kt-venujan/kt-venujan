@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Thirugnanam Venujan 
-### 👨‍💻 Full Stack Software Engineer | 🛡️ Cybersecurity Enthusiast | 🚀 Founder of H2F
+### 👨‍💻 Full Stack Software Engineer | 🛡️ Cybersecurity Enthusiast 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Crafting+Modern+UI%2FUX;Securing+Systems+(ISC2+CC);MERN+%7C+Next.js+%7C+Laravel+%7C+Cyber" alt="Typing SVG" />
