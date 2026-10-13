@@ -18,7 +18,7 @@ Alongside my professional work, I continue exploring **Next.js, React, Laravel, 
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Final-year BSc (Hons) Computer Science undergraduate at SLIIT, pursuing a University of Bedfordshire degree. Completed Higher Diploma in IT.
+- 🎓 **Education:** Final-year BSc (Hons) Computer Science undergraduate at SLIIT, pursuing a University of Bedfordshire degree.
 - 💼 **Current Role:** Implementation Engineer at **Apptimus**, Jaffna.
 - 💻 **Previous Experience:** Software Engineer Intern at Rispit and Software Engineer at Code Vita.
 - ⚙️ **Enterprise Solutions:** ERP implementation, software configuration, SQL, deployment, troubleshooting, and customer support.
