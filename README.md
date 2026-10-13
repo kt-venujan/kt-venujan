@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Thirugnanam Venujan
+# Hi there 👋, I'm Venujan Thirugnanam
 
 ### 👨‍💻 Implementation Engineer | Full Stack Developer | 🛡️ Cybersecurity Enthusiast
 
