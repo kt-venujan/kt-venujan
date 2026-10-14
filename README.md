@@ -1,4 +1,9 @@
 # Hi there 👋, I'm Venujan Thirugnanam
+<h3 align="center">
+  🌐 <a href="https://venuu.codes">venuu.codes</a> |
+  💼 <a href="https://www.linkedin.com/in/thirugnanam-venujan">LinkedIn</a> |
+  📍 Jaffna, Sri Lanka
+</h3>
 
 ### 👨‍💻 Implementation Engineer | Full Stack Developer | 🛡️ Cybersecurity Enthusiast
 
