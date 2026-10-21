@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Venujan Thirugnanam
 <h3 align="center">
-  🌐 <a href="https://venujan.me">venuu.codes</a> |
+  🌐 <a href="https://venujan.me">venujan.codes</a> |
   💼 <a href="https://www.linkedin.com/in/thirugnanam-venujan">LinkedIn</a> |
   📍 Jaffna, Sri Lanka
 </h3>
